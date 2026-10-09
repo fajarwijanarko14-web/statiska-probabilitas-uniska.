@@ -1,0 +1,11 @@
+# Statistika & Probabilitas — Uniska
+
+Kumpulan notebook pembelajaran statistika modern dengan Python dan Kaggle.
+
+## Isi Repository
+- Modul 1: Pengenalan dan EDA Titanic
+- Modul 3: Naive Bayes Spam Classifier
+- Modul 12: A/B Testing Analysis
+
+## Tech Stack
+Python, pandas, scikit-learn, Google Colab, Kaggle.
